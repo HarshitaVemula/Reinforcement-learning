@@ -1,1 +1,4 @@
 Implementation of RL algorithms in discrete state and action spaces.
+
+SARSA_QL
+  SARSA and Q-Learning were implemented in discrete spaces.
