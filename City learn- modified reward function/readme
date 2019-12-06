@@ -1,2 +1,0 @@
-Reward function is modified to give a +1 reward for charging during night and -1 for discharging during night; 
-+1 reward for discharging during day and -1 for charging during day.
